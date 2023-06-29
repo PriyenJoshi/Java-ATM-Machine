@@ -1,1 +1,1 @@
-# Java-ATM-Machine
+I have utilized the principles of Object-Oriented Programming (OOPs) to develop an ATM Machine application in Java. This application focuses on validating users based on their ATM number and PIN number. Only users who are authenticated as valid will be granted access to perform the following operations: viewing their available balance, withdrawing funds, depositing funds, and exiting the application.
